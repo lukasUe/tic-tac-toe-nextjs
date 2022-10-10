@@ -36,7 +36,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # Introduction
 ## Tic Tac Toe
 
-this is a game coded in typescript and with next.js.
+This is a game coded in typescript and with next.js.
+
+[Video](https://www.youtube.com/watch?v=7iw8j20h4pc)
 
 
 
